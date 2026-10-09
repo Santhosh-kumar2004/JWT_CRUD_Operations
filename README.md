@@ -287,10 +287,10 @@ Example request body:
 
 ```json
 {
-  "Employee_Name": "Arun",
-  "Employee_Age": 25,
+  "Employee_Name": "Santhosh",
+  "Employee_Age": 22,
   "Employee_Gender": "Male",
-  "Employee_Email": "arun@example.com",
+  "Employee_Email": "santhosh@example.com",
   "Employee_Phone": "9876543210"
 }
 ```
